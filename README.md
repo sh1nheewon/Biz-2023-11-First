@@ -19,4 +19,4 @@
 ## 원격 Repository 에 push 하기 
 - 로컬 폴더의 파일, 폴더들을 로컬 Repository 에 압축하여 저장하기 : **git add README.md**
 - 왜 push 를 하는지 comment 부착하기 : **git commit -m "커멘드"**
-- push 하기
+- push 하기 :**git push**
