@@ -8,8 +8,8 @@
 
 ## Repository 정보 등록
 - 컴퓨터를 포맷 하였을 때 최초 한번만 등록 
-- username 등록 : **git config --global user.name ____ **
-- useremail 등록 : **git config --global user.email ____@____**
+- username 등록 : **git config --global user.name sh1nheewon**
+- useremail 등록 : **git config --global user.email tlsgmldnjs00@naver.com**
 
 ## 로컬 Repository 생성하기
 - **bash shell** 에서 **git init** 명령 실행하기 : **.git** 폴더가 생성된다 
