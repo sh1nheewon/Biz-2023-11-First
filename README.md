@@ -1,6 +1,6 @@
 # 나의 첫 프로젝트 
 - Repository 정보 등록 
-- 원격 Repository 생성
+- 원격 Repository 생성 : github + creative
 - 로컬 폴더(test1)에 README.md 파일 생성
 - 로컬 Repository 생성
 - 로컬 폴더 압축하여 로컬 Repository 에 저장
